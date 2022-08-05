@@ -1,0 +1,11 @@
+src
+tsconfig.json
+tsconfig.eslint.json
+.eslintrc.js
+.prettierrc
+package-lock.json
+webpack.config.js
+
+.npmignore
+
+.idea

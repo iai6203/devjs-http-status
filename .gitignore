@@ -1,0 +1,10 @@
+# node
+node_modules
+package-lock.json
+
+# production
+dist/**
+!dist/http-status.min.js
+
+# misc
+.idea
